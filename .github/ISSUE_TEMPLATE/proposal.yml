@@ -1,0 +1,72 @@
+name: "💡 New Proposal"
+description: "Create a new proposal to improve the Toronto JS community"
+title: "[PROPOSAL] - "
+labels: [
+  "proposal",
+  "needs triage"
+]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Proposal
+
+        This is a proposal to improve the Toronto JS community. Please fill out the following information to help us understand your proposal better.
+
+        Don't forget to tag the organizers! **@torontojs/organizers**
+  - type: textarea
+    id: the_what
+    attributes:
+      label: "Describe your proposal"
+      description: 'Provide a clear and concise description of "what is the proposal?"'
+      placeholder: "E.g.: A new event for socializing and networking."
+    validations:
+      required: true
+  - type: textarea
+    id: the_why
+    attributes:
+      label: "Why is this proposal important?"
+      description: "Explain why will this proposal bennefit the community?"
+      placeholder: "E.g.: It provides a space for people to meet and make new friends."
+    validations:
+      required: true
+  - type: textarea
+    id: the_who
+    attributes:
+      label: "Who will benefit from this proposal?"
+      description: "Describe the audience for the proposal."
+      placeholder: "E.g.: People starting their carrers who don't have a strong network yet, people who are willing to help newcomers to build a network, and people who are looking to expand their existing networks."
+    validations:
+      required: true
+  - type: textarea
+    id: the_when
+    attributes:
+      label: "When will this happen?"
+      description: "Explain the schedule and frequency of the proposal."
+      placeholder: "E.g.: We will start in the next month, and happen once every two weeks. Around 6pm until 10pm."
+    validations:
+      required: true
+  - type: textarea
+    id: the_where
+    attributes:
+      label: "What platform/location will the proposal need?"
+      description: "Describe where will the proposal take place."
+      placeholder: "E.g.: We are looking for a venue that can host around 20 people, with seats and not so loud music so people can chat."
+    validations:
+      required: true
+  - type: textarea
+    id: the_how_much
+    attributes:
+      label: "How much will it cost?"
+      description: "Explain the budget needed for the proposal, and if possible how to cover costs."
+      placeholder: "E.g.: The budget is around $ 200 per event. That includes sponsoring food, drinks and swag. We are looking for sponsors to cover the costs for the first three events."
+    validations:
+      required: true
+  - type: textarea
+    id: the_how
+    attributes:
+      label: "Describe the technical details of the proposal"
+      description: "Explain how the proposal will be implemented and what are the technical challanges of it."
+      placeholder: "E.g.: We will need three to five volunteers to help welcoming the guests and making sure the event runs smoothly. The venue must be notified beforehand and there should be posts on social media inviting people to join."
+    validations:
+      required: true
