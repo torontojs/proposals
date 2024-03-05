@@ -19,3 +19,4 @@ A proposal follows the model of an RFC (Request for Comments). It is a document 
 
 | Proposal | Champion | Status |
 | :--- | :---: | :---: |
+| [Newsletter and Blog Integration](https://github.com/torontojs/proposals/issues/1) | @dreymoreau / @madcampos | Work in progress |
