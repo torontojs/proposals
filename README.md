@@ -21,3 +21,6 @@ A proposal follows the model of an RFC (Request for Comments). It is a document 
 | :--- | :---: | :---: |
 | [Newsletter and Blog Integration](https://github.com/torontojs/proposals/issues/1) | @dreymoreau / @madcampos | [Work in progress](https://github.com/torontojs/blog) |
 | [Cross-post our events on our website!](https://github.com/torontojs/proposals/issues/2) | @dxnn | In review |
+| [Investigation of communication platforms and moving off of Slack](https://github.com/torontojs/proposals/issues/4) | --- | On Hold |
+| [Volunteer Management System (VMS) software](https://github.com/torontojs/proposals/issues/5) | @GingerKiwi | Work in progress |
+| [Moving volunteer info to volunteer.torontojs.com](https://github.com/torontojs/proposals/issues/6) | @GingerKiwi | [Work in progress](https://github.com/torontojs/volunteer) |
