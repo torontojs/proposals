@@ -15,6 +15,10 @@ A proposal follows the model of an RFC (Request for Comments). It is a document 
 5. If needed, create a repository with the proposal and link it to the issue.
 6. The proposal will be approved or rejected by the organizers. If approved, the champion will be responsible for following up on the proposal implementation.
 
+## What about other ideas?
+
+If you have an idea that do not fit into a proposal, we also have an ideas board where you can add new ones here: https://github.com/orgs/torontojs/projects/3
+
 ## Proposals
 
 | Proposal | Champion | Status |
